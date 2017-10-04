@@ -42,10 +42,6 @@ a[rel="external"] {
   background-color: #2694d8;
 }
 
-ul:first-line > li {
-  color: #719e47;
-}
-
 li:first-child {
   color: #719e47;
 }
